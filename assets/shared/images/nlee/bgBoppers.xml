@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgBoppers.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bopping20000" x="0" y="0" width="1549" height="370" frameX="0" frameY="-151" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20001" x="0" y="0" width="1549" height="370" frameX="0" frameY="-151" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20002" x="0" y="370" width="1550" height="433" frameX="0" frameY="-91" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20003" x="0" y="370" width="1550" height="433" frameX="0" frameY="-91" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20004" x="0" y="803" width="1549" height="481" frameX="0" frameY="-50" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20005" x="0" y="803" width="1549" height="481" frameX="0" frameY="-50" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20006" x="0" y="1284" width="1549" height="513" frameX="0" frameY="-18" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20007" x="0" y="1284" width="1549" height="513" frameX="0" frameY="-18" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20008" x="0" y="1797" width="1549" height="528" frameX="0" frameY="-2" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20009" x="0" y="2325" width="1550" height="531" frameX="0" frameY="0" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20010" x="0" y="2325" width="1550" height="531" frameX="0" frameY="0" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20011" x="0" y="2325" width="1550" height="531" frameX="0" frameY="-2" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20012" x="0" y="2325" width="1550" height="531" frameX="0" frameY="-2" frameWidth="1550" frameHeight="532"/>
+	<SubTexture name="Bopping20013" x="0" y="2325" width="1550" height="531" frameX="0" frameY="0" frameWidth="1550" frameHeight="532"/>
+</TextureAtlas>

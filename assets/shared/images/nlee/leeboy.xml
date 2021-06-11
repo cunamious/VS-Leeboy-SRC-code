@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leeboy.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lee Down Note0000" x="0" y="0" width="606" height="325" frameX="-1" frameY="-11" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0001" x="0" y="0" width="606" height="325" frameX="-1" frameY="-11" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0002" x="606" y="0" width="384" height="337" frameX="0" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0003" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0004" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0005" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0006" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0007" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0008" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0009" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0010" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Idle Dance0000" x="1372" y="0" width="381" height="409" frameX="-3" frameY="-23" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0001" x="1372" y="0" width="381" height="409" frameX="-3" frameY="-23" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0002" x="0" y="409" width="380" height="413" frameX="-6" frameY="-19" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0003" x="0" y="409" width="380" height="413" frameX="-6" frameY="-19" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0004" x="380" y="409" width="382" height="419" frameX="-6" frameY="-14" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0005" x="762" y="409" width="381" height="419" frameX="-6" frameY="-14" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0006" x="1143" y="409" width="382" height="431" frameX="-5" frameY="-2" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0007" x="1525" y="409" width="386" height="431" frameX="-1" frameY="-2" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0008" x="0" y="840" width="387" height="433" frameX="0" frameY="0" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0009" x="0" y="840" width="387" height="433" frameX="0" frameY="0" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0010" x="0" y="840" width="387" height="433" frameX="0" frameY="0" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0011" x="0" y="840" width="387" height="433" frameX="0" frameY="0" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0012" x="0" y="840" width="387" height="433" frameX="0" frameY="0" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee Idle Dance0013" x="0" y="840" width="387" height="433" frameX="0" frameY="0" frameWidth="388" frameHeight="433"/>
+	<SubTexture name="lee NOTE LEFT0000" x="387" y="840" width="367" height="425" frameX="0" frameY="0" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0001" x="387" y="840" width="367" height="425" frameX="0" frameY="0" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0002" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0003" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0004" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0005" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0006" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0007" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0008" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0009" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0010" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0011" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0012" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0013" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0014" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0015" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee NOTE LEFT0016" x="754" y="840" width="386" height="423" frameX="-1" frameY="-4" frameWidth="387" frameHeight="427"/>
+	<SubTexture name="lee Note Right0000" x="1140" y="840" width="410" height="416" frameX="-4" frameY="-1" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0001" x="1140" y="840" width="410" height="416" frameX="-4" frameY="-1" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0002" x="1550" y="840" width="405" height="416" frameX="0" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0003" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0004" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0005" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0006" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0007" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0008" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0009" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0010" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0011" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0012" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0013" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0014" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0015" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Note Right0016" x="0" y="1273" width="400" height="416" frameX="-5" frameY="0" frameWidth="414" frameHeight="417"/>
+	<SubTexture name="lee Up note0000" x="400" y="1273" width="344" height="470" frameX="0" frameY="0" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0001" x="744" y="1273" width="344" height="469" frameX="0" frameY="0" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0002" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0003" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0004" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0005" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0006" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0007" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0008" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0009" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0010" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0011" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0012" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee Up note0013" x="1088" y="1273" width="369" height="463" frameX="0" frameY="-6" frameWidth="369" frameHeight="470"/>
+	<SubTexture name="lee scream0000" x="1457" y="1273" width="382" height="431" frameX="0" frameY="-2" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0001" x="1457" y="1273" width="382" height="431" frameX="0" frameY="-2" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0002" x="0" y="1743" width="384" height="431" frameX="-4" frameY="-5" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0003" x="384" y="1743" width="359" height="432" frameX="-3" frameY="-2" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0004" x="384" y="1743" width="359" height="432" frameX="-3" frameY="-2" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0005" x="743" y="1743" width="354" height="432" frameX="-2" frameY="-2" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0006" x="743" y="1743" width="354" height="432" frameX="-2" frameY="-2" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0007" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0008" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0009" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0010" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0011" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0012" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0013" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0014" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0015" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0016" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0017" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0018" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0019" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0020" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0021" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0022" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0023" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+	<SubTexture name="lee scream0024" x="1097" y="1743" width="345" height="434" frameX="-1" frameY="0" frameWidth="388" frameHeight="436"/>
+</TextureAtlas>
