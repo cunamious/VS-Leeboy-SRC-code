@@ -2,17 +2,17 @@
 <TextureAtlas imagePath="leeboy.png">
 	<!-- Created with Adobe Animate version 19.0.0.326 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="lee Down Note0000" x="0" y="0" width="606" height="325" frameX="-1" frameY="-11" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0001" x="0" y="0" width="606" height="325" frameX="-1" frameY="-11" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0002" x="606" y="0" width="384" height="337" frameX="0" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0003" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0004" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0005" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0006" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0007" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0008" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0009" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
-	<SubTexture name="lee Down Note0010" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="1037"/>
+	<SubTexture name="lee Down Note0000" x="0" y="0" width="606" height="325" frameX="-1" frameY="-11" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0001" x="0" y="0" width="606" height="325" frameX="-1" frameY="-11" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0002" x="606" y="0" width="384" height="337" frameX="0" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0003" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0004" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0005" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0006" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0007" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0008" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0009" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
+	<SubTexture name="lee Down Note0010" x="990" y="0" width="382" height="337" frameX="-2" frameY="0" frameWidth="381" frameHeight="337"/>
 	<SubTexture name="lee Idle Dance0000" x="1372" y="0" width="381" height="409" frameX="-3" frameY="-23" frameWidth="388" frameHeight="433"/>
 	<SubTexture name="lee Idle Dance0001" x="1372" y="0" width="381" height="409" frameX="-3" frameY="-23" frameWidth="388" frameHeight="433"/>
 	<SubTexture name="lee Idle Dance0002" x="0" y="409" width="380" height="413" frameX="-6" frameY="-19" frameWidth="388" frameHeight="433"/>

@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin' VS Leeboy" file="VS Leeboy" packageName="com.nlee.funkin" package="com.nlee.funkin" main="Main" version="1.0" company="ninjamuffin99" />
+	<app title="Friday Night Funkin' VS Leeboy" file="VS Leeboy" packageName="com.nlee1.leeboy" package="com.nlee1.leeboy" main="Main" version="1.5" company="kadedev" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -34,11 +34,11 @@
 
 	<!-- _____________________________ Path Settings ____________________________ -->
 
-	<set name="BUILD_DIR" value="export_lee/debug" if="debug" />
-	<set name="BUILD_DIR" value="export_lee/release" unless="debug" />
-	<set name="BUILD_DIR" value="export_lee/32bit" if="32bit" />
+	<set name="BUILD_DIR" value="export/debug" if="debug" />
+	<set name="BUILD_DIR" value="export/release" unless="debug" />
+	<set name="BUILD_DIR" value="export/32bit" if="32bit" />
 
-	<classpath name="source_lee" />
+	<classpath name="source" />
 
 	<assets path="assets/preload" rename="assets" exclude="*.ogg" if="web"/>
 	<assets path="assets/preload" rename="assets" exclude="*.mp3" unless="web"/>
@@ -92,9 +92,10 @@
 	
 	<assets path='example_mods' rename='mods' embed='false'/>
 	<assets path='art/readme.txt' rename='do NOT readme.txt' />
+	<assets path='LICENSE' rename='LICENSE.txt' />
 	<!-- <template path='mods' /> -->
 	
-	<assets path="CHANGELOG.md" rename='changelog.txt'/>
+	<!-- <assets path="CHANGELOG.md" rename='changelog.txt'/> -->
 
 	<!-- NOTE FOR FUTURE SELF SINCE FONTS ARE ALWAYS FUCKY 
 		TO FIX ONE OF THEM, I CONVERTED IT TO OTF. DUNNO IF YOU NEED TO
