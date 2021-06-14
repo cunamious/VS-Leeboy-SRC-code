@@ -3437,6 +3437,21 @@ class PlayState extends MusicBeatState
 			luaModchart.setVar('curStep',curStep);
 			luaModchart.executeState('stepHit',[curStep]);
 		}
+
+		if (SONG.song.toLowerCase() == 'nleeboy')
+			{
+				
+				if (curStep == 60 || curStep == 317 || curStep == 506 || curStep == 829 || curStep == 1024 || curStep == 1040 || curStep == 1056 || curStep == 1072 || curStep == 1088)
+				{
+					
+					
+					dad.playAnim('scream', true);
+					
+					
+				}
+				
+			}
+
 		#end
 
 
