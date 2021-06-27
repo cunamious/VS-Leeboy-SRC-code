@@ -55,6 +55,18 @@ class DialogueBox extends FlxSpriteGroup
 			case 'nleeboy':
 				FlxG.sound.playMusic(Paths.music('leelog', 'shared'), 0);
 				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'filler':
+				FlxG.sound.playMusic(Paths.music('leelog', 'shared'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'crazyness':
+				FlxG.sound.playMusic(Paths.music('leelog', 'shared'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'edge':
+				FlxG.sound.playMusic(Paths.music('leelog', 'shared'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
+			case 'slydeath':
+				FlxG.sound.playMusic(Paths.music('slylog', 'shared'), 0);
+				FlxG.sound.music.fadeIn(1, 0, 0.8);
 		}
 
 		bgFade = new FlxSprite(-200, -200).makeGraphic(Std.int(FlxG.width * 1.3), Std.int(FlxG.height * 1.3), 0xFFB3DFd8);
@@ -120,6 +132,38 @@ class DialogueBox extends FlxSpriteGroup
 				box.width = 230;
 				box.height = 230;
 				box.y = 370;
+			case 'filler':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking', 'shared');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [4], "", 24);
+				box.width = 230;
+				box.height = 230;
+				box.y = 370;
+			case 'crazyness':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking', 'shared');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [4], "", 24);
+				box.width = 230;
+				box.height = 230;
+				box.y = 370;
+			case 'edge':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking', 'shared');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [4], "", 24);
+				box.width = 230;
+				box.height = 230;
+				box.y = 370;
+			case 'slydeath':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('speech_bubble_talking', 'shared');
+				box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
+				box.animation.addByIndices('normal', 'speech bubble normal', [4], "", 24);
+				box.width = 230;
+				box.height = 230;
+				box.y = 370;
 		}
 
 		this.dialogueList = dialogueList;
@@ -150,6 +194,30 @@ class DialogueBox extends FlxSpriteGroup
 				add(portraitLeft);
 				portraitLeft.visible = false;
 			}
+		else if (PlayState.SONG.song.toLowerCase()=='filler' || PlayState.SONG.song.toLowerCase()=='crazyness' || PlayState.SONG.song.toLowerCase()=='edge')
+			{
+				portraitLeft = new FlxSprite(-20, 45);
+				portraitLeft.flipX = true;
+				portraitLeft.frames = Paths.getSparrowAtlas('leestory/darkPortrait', 'shared');
+				portraitLeft.animation.addByPrefix('enter', 'Portrait Enter', 24, false);
+				portraitLeft.setGraphicSize(Std.int(portraitLeft.width * PlayState.daPixelZoom * 0.15));
+				portraitLeft.updateHitbox();
+				portraitLeft.scrollFactor.set();
+				add(portraitLeft);
+				portraitLeft.visible = false;
+			}
+		else if (PlayState.SONG.song.toLowerCase()=='slydeath')
+			{
+				portraitLeft = new FlxSprite(-20, 45);
+				portraitLeft.flipX = true;
+				portraitLeft.frames = Paths.getSparrowAtlas('leestory/slyPortrait', 'shared');
+				portraitLeft.animation.addByPrefix('enter', 'Portrait Enter', 24, false);
+				portraitLeft.setGraphicSize(Std.int(portraitLeft.width * PlayState.daPixelZoom * 0.15));
+				portraitLeft.updateHitbox();
+				portraitLeft.scrollFactor.set();
+				add(portraitLeft);
+				portraitLeft.visible = false;
+			}
 
 		if (PlayState.SONG.song.toLowerCase()=='senpai' || PlayState.SONG.song.toLowerCase()=='roses' || PlayState.SONG.song.toLowerCase()=='thorns')
 			{
@@ -163,6 +231,28 @@ class DialogueBox extends FlxSpriteGroup
 				portraitRight.visible = false;
 			}
 		else if (PlayState.SONG.song.toLowerCase()=='adventure' || PlayState.SONG.song.toLowerCase()=='randomness' || PlayState.SONG.song.toLowerCase()=='nleeboy')
+			{
+				portraitRight = new FlxSprite(-50, 45);
+				portraitRight.frames = Paths.getSparrowAtlas('leestory/boyfriendPortrait', 'shared');
+				portraitRight.animation.addByPrefix('enter', 'Portrait Enter', 24, false);
+				portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.15));
+				portraitRight.updateHitbox();
+				portraitRight.scrollFactor.set();
+				add(portraitRight);
+				portraitRight.visible = false;
+			}
+		else if (PlayState.SONG.song.toLowerCase()=='filler' || PlayState.SONG.song.toLowerCase()=='crazyness' || PlayState.SONG.song.toLowerCase()=='edge')
+			{
+				portraitRight = new FlxSprite(-50, 45);
+				portraitRight.frames = Paths.getSparrowAtlas('leestory/boyfriendPortrait', 'shared');
+				portraitRight.animation.addByPrefix('enter', 'Portrait Enter', 24, false);
+				portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.15));
+				portraitRight.updateHitbox();
+				portraitRight.scrollFactor.set();
+				add(portraitRight);
+				portraitRight.visible = false;
+			}
+		else if (PlayState.SONG.song.toLowerCase()=='slydeath')
 			{
 				portraitRight = new FlxSprite(-50, 45);
 				portraitRight.frames = Paths.getSparrowAtlas('leestory/boyfriendPortrait', 'shared');
@@ -189,6 +279,15 @@ class DialogueBox extends FlxSpriteGroup
 			}
 
 		if (PlayState.SONG.song.toLowerCase()=='adventure' || PlayState.SONG.song.toLowerCase()=='randomness' || PlayState.SONG.song.toLowerCase()=='nleeboy')
+			{
+				handSelect = new FlxSprite(FlxG.width * 0.9, FlxG.height * 0.9).loadGraphic(Paths.image('weeb/pixelUI/hand_textbox'));
+			}
+
+		if (PlayState.SONG.song.toLowerCase()=='filler' || PlayState.SONG.song.toLowerCase()=='crazyness' || PlayState.SONG.song.toLowerCase()=='edge')
+			{
+				handSelect = new FlxSprite(FlxG.width * 0.9, FlxG.height * 0.9).loadGraphic(Paths.image('weeb/pixelUI/hand_textbox'));
+			}
+		if (PlayState.SONG.song.toLowerCase()=='slydeath')
 			{
 				handSelect = new FlxSprite(FlxG.width * 0.9, FlxG.height * 0.9).loadGraphic(Paths.image('weeb/pixelUI/hand_textbox'));
 			}

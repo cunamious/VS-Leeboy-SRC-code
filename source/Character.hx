@@ -539,6 +539,44 @@ class Character extends FlxSprite
 				addOffset("singDOWN", -50, -130);
 
 				playAnim('danceRight');
+
+			case 'darkboy':
+				tex = Paths.getSparrowAtlas('dark/dark');
+				frames = tex;
+				animation.addByPrefix('idle', 'dee Idle Dance', 24);
+				animation.addByPrefix('singUP', 'dee Up note', 24);
+				animation.addByPrefix('singRIGHT', 'dee NOTE LEFT', 24);
+				animation.addByPrefix('singDOWN', 'dee Down Note', 24);
+				animation.addByPrefix('singLEFT', 'dee Note Right', 24);
+				animation.addByIndices('scream', 'dee scream', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16], "", 30);
+	
+				addOffset('idle');
+				addOffset("singUP", 0, 60);
+				addOffset("singRIGHT");
+				addOffset("singLEFT", 35, -20);
+				addOffset("singDOWN", 16, -110);
+				addOffset("scream", 9, 44);
+
+				flipX = true;
+	
+				playAnim('idle');
+
+			case 'sly':
+				tex = Paths.getSparrowAtlas('sly/sly', 'shared');
+				frames = tex;
+				animation.addByPrefix('idle', 'sam idle', 24);
+				animation.addByPrefix('singUP', 'sam up', 24);
+				animation.addByPrefix('singRIGHT', 'sam right', 24);
+				animation.addByPrefix('singDOWN', 'sam down', 24);
+				animation.addByPrefix('singLEFT', 'sam left', 24);
+
+				addOffset('idle');
+				addOffset("singUP");
+				addOffset("singRIGHT", 0, -4);
+				addOffset("singLEFT", -4, -6);
+				addOffset("singDOWN", -12, -100);
+
+				playAnim('idle');
 		}
 
 		dance();

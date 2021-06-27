@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dark.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dee Down Note0000" x="0" y="0" width="641" height="348" frameX="0" frameY="-13" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0001" x="0" y="0" width="641" height="348" frameX="0" frameY="-13" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0002" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0003" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0004" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0005" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0006" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0007" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0008" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0009" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Down Note0010" x="641" y="0" width="380" height="362" frameX="-6" frameY="0" frameWidth="393" frameHeight="362"/>
+	<SubTexture name="dee Idle Dance0000" x="1021" y="0" width="346" height="440" frameX="-6" frameY="-27" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0001" x="1367" y="0" width="351" height="440" frameX="-1" frameY="-27" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0002" x="0" y="440" width="347" height="439" frameX="-2" frameY="-28" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0003" x="347" y="440" width="347" height="439" frameX="-2" frameY="-28" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0004" x="694" y="440" width="347" height="451" frameX="0" frameY="-17" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0005" x="1041" y="440" width="347" height="451" frameX="0" frameY="-17" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0006" x="1388" y="440" width="341" height="465" frameX="-5" frameY="-3" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0007" x="0" y="905" width="347" height="465" frameX="0" frameY="-3" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0008" x="347" y="905" width="342" height="468" frameX="-5" frameY="0" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0009" x="689" y="905" width="341" height="468" frameX="-5" frameY="0" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0010" x="1030" y="905" width="341" height="468" frameX="-5" frameY="0" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0011" x="1371" y="905" width="341" height="468" frameX="-5" frameY="0" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0012" x="0" y="1373" width="341" height="468" frameX="-5" frameY="0" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee Idle Dance0013" x="341" y="1373" width="341" height="468" frameX="-5" frameY="0" frameWidth="352" frameHeight="468"/>
+	<SubTexture name="dee NOTE LEFT0000" x="682" y="1373" width="362" height="461" frameX="0" frameY="0" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0001" x="1044" y="1373" width="362" height="461" frameX="0" frameY="0" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0002" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0003" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0004" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0005" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0006" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0007" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0008" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0009" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0010" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0011" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0012" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0013" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0014" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0015" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee NOTE LEFT0016" x="1406" y="1373" width="361" height="458" frameX="-1" frameY="-5" frameWidth="362" frameHeight="463"/>
+	<SubTexture name="dee Note Right0000" x="0" y="1841" width="371" height="434" frameX="-4" frameY="-7" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0001" x="0" y="1841" width="371" height="434" frameX="-4" frameY="-7" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0002" x="371" y="1841" width="366" height="440" frameX="0" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0003" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0004" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0005" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0006" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0007" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0008" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0009" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0010" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0011" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0012" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0013" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0014" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0015" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Note Right0016" x="737" y="1841" width="361" height="440" frameX="-5" frameY="0" frameWidth="375" frameHeight="441"/>
+	<SubTexture name="dee Up note0000" x="1098" y="1841" width="343" height="514" frameX="0" frameY="0" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0001" x="1441" y="1841" width="343" height="514" frameX="0" frameY="0" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0002" x="0" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0003" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0004" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0005" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0006" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0007" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0008" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0009" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0010" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0011" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0012" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee Up note0013" x="347" y="2355" width="347" height="505" frameX="0" frameY="-8" frameWidth="347" frameHeight="514"/>
+	<SubTexture name="dee scream0000" x="694" y="2355" width="330" height="466" frameX="-33" frameY="-44" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0001" x="694" y="2355" width="330" height="466" frameX="-33" frameY="-44" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0002" x="1024" y="2355" width="332" height="466" frameX="-38" frameY="-44" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0003" x="1356" y="2355" width="386" height="515" frameX="-5" frameY="0" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0004" x="1356" y="2355" width="386" height="515" frameX="-5" frameY="0" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0005" x="0" y="2870" width="389" height="517" frameX="-2" frameY="-5" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0006" x="0" y="2870" width="389" height="517" frameX="-2" frameY="-5" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0007" x="389" y="2870" width="387" height="517" frameX="-1" frameY="-3" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0008" x="389" y="2870" width="387" height="517" frameX="-1" frameY="-3" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0009" x="776" y="2870" width="387" height="517" frameX="-1" frameY="-1" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0010" x="776" y="2870" width="387" height="517" frameX="-1" frameY="-1" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0011" x="1163" y="2870" width="386" height="517" frameX="-1" frameY="-3" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0012" x="1163" y="2870" width="386" height="517" frameX="-1" frameY="-3" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0013" x="1549" y="2870" width="387" height="517" frameX="0" frameY="-1" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0014" x="1549" y="2870" width="387" height="517" frameX="0" frameY="-1" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0015" x="0" y="3387" width="387" height="517" frameX="-1" frameY="-2" frameWidth="391" frameHeight="522"/>
+	<SubTexture name="dee scream0016" x="387" y="3387" width="387" height="517" frameX="-2" frameY="-2" frameWidth="391" frameHeight="522"/>
+</TextureAtlas>
